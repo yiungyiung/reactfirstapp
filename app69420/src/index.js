@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <h1> great  suck </h1>,
+  <h1> great tanay sucks ass </h1>,
  
   document.getElementById('root')
 );
