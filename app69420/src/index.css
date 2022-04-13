@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#root{
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+}
+#root:hover{
+  border-radius: 10px;
+  background: #d2d832;
+  padding: 20px;
+  width: 400px;
+  height: 150px;
+  transition-duration: 1s;
+}
